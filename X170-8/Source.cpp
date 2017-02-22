@@ -10,7 +10,7 @@
 // 1. User tries to input non-integers
 // 2. User asks to sum more numbers than there are in the vector.
 
-// Start standard opening
+// Start standard opening - test change
 
 #include <iostream>
 #include <string>
